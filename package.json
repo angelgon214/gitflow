@@ -1,6 +1,7 @@
 {
   "name": "gitflow-app",
   "version": "0.1.0",
+  "homepage": "https://angelgon214.github.io/gitflow/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
