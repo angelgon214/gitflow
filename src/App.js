@@ -10,6 +10,8 @@ function App() {
         />
         <h1>¡Hola, soy José Ángel González Santafé!</h1>
         <p>Estoy usando gitthub pages .</p>
+        <p>Estoy usando gitflow .</p>
+        <p>Estoy usando react .</p>
         <p>IDGS011</p>
       </header>
     </div>
