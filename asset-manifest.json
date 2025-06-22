@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gitflow/static/css/main.f855e6bc.css",
-    "main.js": "/gitflow/static/js/main.12062f80.js",
+    "main.js": "/gitflow/static/js/main.2a38ee8e.js",
     "static/js/453.991283cf.chunk.js": "/gitflow/static/js/453.991283cf.chunk.js",
     "static/media/logo.svg": "/gitflow/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gitflow/index.html",
     "main.f855e6bc.css.map": "/gitflow/static/css/main.f855e6bc.css.map",
-    "main.12062f80.js.map": "/gitflow/static/js/main.12062f80.js.map",
+    "main.2a38ee8e.js.map": "/gitflow/static/js/main.2a38ee8e.js.map",
     "453.991283cf.chunk.js.map": "/gitflow/static/js/453.991283cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.12062f80.js"
+    "static/js/main.2a38ee8e.js"
   ]
 }
