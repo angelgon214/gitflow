@@ -8,8 +8,8 @@ function App() {
           src="https://media.tenor.com/ZdsIbPaZn64AAAAM/verycat-cateat.gif" 
           alt="cat gif" 
         />
-        <h1>¡ Hola, soy José Ángel González Santafé!</h1>
-        <p>Estoy aprendiendo React.</p>
+        <h1>¡Hola, soy José Ángel González Santafé!</h1>
+        <p>Estoy usando gitthub pages .</p>
         <p>IDGS011</p>
       </header>
     </div>
